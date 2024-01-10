@@ -11,7 +11,7 @@ I’m a dedicated person committed to learning new technologies. I have a curiou
 Thank you for reading about me, and I hope we can work together on some exciting project in the future! 💻👨‍💻.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=aslrafa&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=ASLRAFA&theme=omni&show_icons=true&hide_border=true&count_private=true" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslrafa&theme=omni&show_icons=true&hide_border=true&layout=compact" />
 
 
@@ -36,7 +36,9 @@ Thank you for reading about me, and I hope we can work together on some exciting
 #### Studying in this moment:
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+<a href='https://github.com/ASLRafa' target="_blank"><img alt='Express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=Express&logoColor=white&labelColor=black&color=black'/></a>
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
 
 #### Databases:
 
