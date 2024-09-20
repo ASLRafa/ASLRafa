@@ -11,8 +11,8 @@ I’m a dedicated person committed to learning new technologies. I have a curiou
 Thank you for reading about me, and I hope we can work together on some exciting project in the future! 💻👨‍💻.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=ASLRAFA&theme=omni&show_icons=true&hide_border=true&count_private=true" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslrafa&theme=omni&show_icons=true&hide_border=true&layout=compact" />
+<!-- <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=ASLRAFA&theme=omni&show_icons=true&hide_border=true&count_private=true" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslrafa&theme=omni&show_icons=true&hide_border=true&layout=compact" /> -->
 
 
  
